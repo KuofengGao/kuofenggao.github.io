@@ -1,47 +1,34 @@
-"Goldblum":
-  - firstname: ["Micah", "M.", "E. P.", "Micah Goldblum"]
-    url: https://goldblum.github.io/
+"adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
 
-"Wen":
-  - firstname: ["Yuxin", "Y", "Yuxin Wen"]
-    url: https://yuxinwenrick.github.io/
+"podolsky":
+  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
+    url: https://en.wikipedia.org/wiki/Boris_Podolsky
 
-"Goldstein":
-  - firstname: ["Tom", "T.", "Tom Goldstein"]
-    url: https://www.cs.umd.edu/~tomg/
+"rosen":
+  - firstname: ["Nathan", "N."]
+    url: https://en.wikipedia.org/wiki/Nathan_Rosen
 
-"Moeller":
-  - firstname: ["Michael", "M."]
-    url: https://sites.google.com/site/michaelmoellermath/
+"bach":
+  - firstname: ["Johann Sebastian", "J. S."]
+    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
 
-"Somepalli":
-  - firstname: ["Gowthami", "G."]
-    url: https://somepago.github.io/
+  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
+    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
 
-"Kirchenbauer":
-  - firstname: ["John", "J."]
-    url: https://jwkirchenbauer.notion.site/
+"przibram":
+  - firstname: ["Karl"]
+    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
 
-"Schwarzschild":
-  - firstname: ["Avi", "A.", "A. K.", "Avi Koplon"]
-    url: https://www.cs.umd.edu/~avi1/
+"schrodinger":
+  - firstname: ["Erwin"]
+    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
 
-"Saha":
-  - firstname: ["Aniruddha", "A."]
-    url: https://ani0075saha.github.io/
+"lorentz":
+  - firstname: ["Hendrik Antoon"]
+    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
 
-"Jain":
-  - firstname: ["Neel", "N."]
-    url: https://neelsjain.github.io/
-
-"Saifullah":
-  - firstname: ["Khalid", "K."]
-    url: https://khalidsaifullaah.github.io/
-
-"Sandoval-Segura":
-  - firstname: ["Pedro", "P."]
-    url: https://www.cs.umd.edu/~psando/
-
-"Singla":
-  - firstname: ["Vasu", "V."]
-    url: https://vasusingla.github.io/
+"planck":
+  - firstname: ["Max"]
+    url: https://en.wikipedia.org/wiki/Max_Planck
