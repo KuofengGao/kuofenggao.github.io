@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://KuofengGao.github.io/sitemap.xml
+Sitemap: https://kuofenggao.github.io/sitemap.xml
