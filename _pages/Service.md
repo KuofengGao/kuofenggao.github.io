@@ -7,13 +7,15 @@ nav_order: 6
 ---
 
 
-Reviewer
+Conference Reviewer
 
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2024
 
 - European Conference on Computer Vision (ECCV) 2024
 
 - ACM Multimedia (MM) 2024
+
+Journal Reviewer
 
 - IEEE Transactions on Information Forensics & Security (TIFS)
 
