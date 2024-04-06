@@ -1,25 +1,23 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: |+
+  <strong>Ph.D. Student</strong> at ITML Group, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  # align: right
+  image: one_cun.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  # more_info: >
+  #   <p>555 your office number</p>
+  #   <p>123 your address street</p>
+  #   <p>Your City, State 12345</p>
 
-news: true # includes a list of news items
+news: true  # includes a list of news items
+# latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Biography:** I am currently pursuing my Ph.D. degree in Computer Science and Technology at [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Shu-Tao Xia](https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=zh-CN). I was a research intern at Tencent Hunyuan Group, [Tencent](https://www.tencent.com/index.php/zh-cn/index.html) from 2023 to 2024, advised by Dr. [Zhifeng Li](https://scholar.google.com/citations?user=VTrRNN4AAAAJ&hl=zh-CN) and Dr. [Wei Liu](https://scholar.google.com.hk/citations?user=AjxoEpIAAAAJ&hl=en). I obtained my Bachelor's degree in Computer Science from [Wuhan University](https://www.whu.edu.cn/), advised by Prof. [Zhibo Wang](https://scholar.google.com.hk/citations?user=0ox7zDkAAAAJ&hl=en). My research mainly focuses on Trustworthy ML and Responsible AI, especially adversarial learning and backdoor learning. Recently, I focus more on Trustworthy Large Foundation Models (e.g., LLMs and Diffusion Model).
