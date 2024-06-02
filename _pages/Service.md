@@ -15,6 +15,8 @@ Conference Reviewer
 
 - ACM Multimedia (MM) 2024
 
+- Neural Information Processing Systems (NeurIPS) 2024
+
 Journal Reviewer
 
 - IEEE Transactions on Information Forensics & Security (TIFS)
