@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://kuofenggao.github.io/sitemap.xml
