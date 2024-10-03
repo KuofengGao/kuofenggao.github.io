@@ -28,3 +28,5 @@ Journal Reviewer
 - IEEE Transactions on Information Forensics & Security (TIFS)
 
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+
+- Machine Intelligence Research
