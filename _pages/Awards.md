@@ -9,7 +9,7 @@ nav_order: 7
 
 Selected Awards and Honors
 
-- Excellent Science & Technology Papers (1/100), Shenzhen Association for Science and Technology [2024]
+- Excellent Science & Technology Papers, Shenzhen Association for Science and Technology (1/100) [2024]
 
 - Future Scholar Ph.D. Scholarship, Tsinghua University (Top 1%) [2024]
 
