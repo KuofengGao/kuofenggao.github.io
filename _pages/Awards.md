@@ -11,6 +11,8 @@ Selected Awards and Honors
 
 - Excellent Science & Technology Papers, Shenzhen Association for Science and Technology (1/100), 2024
 
+- First Prize Scholarship, SIGS, Tsinghua University (Top 20%), 2024
+
 - Future Scholar Ph.D. Scholarship, Tsinghua University (Top 1%), 2024
 
 - First Prize Scholarship, Tsinghua University (Top 10%), 2023
