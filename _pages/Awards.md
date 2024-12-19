@@ -17,7 +17,7 @@ Selected Awards and Honors
 
 - Tencent Rhino-Bird Elite Talent, Tencent (Top 50+ in China), 2023
 
-- Finalist Mentions, Mathematical Contest In Modeling / Interdisciplinary Contest In Modeling (Top 1%), 2020
+- Finalist, Mathematical Contest In Modeling / Interdisciplinary Contest In Modeling (Top 1%), 2020
 
 - LuoGe-TianYou Scholarship, Wuhan University (Top 1%), 2020
 
