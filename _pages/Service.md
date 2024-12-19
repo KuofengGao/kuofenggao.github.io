@@ -37,4 +37,4 @@ Journal Reviewer
 
 Teaching Assistant
 
-- Applied Information Theory, instructed by Prof. [Shu-Tao Xia](https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=zh-CN), 2023-2024
+- Applied Information Theory, instructed by Prof. [Shu-Tao Xia](https://scholar.google.com/citations?user=koAXTXgAAAAJ&hl=zh-CN), 2024
