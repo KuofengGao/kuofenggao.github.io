@@ -23,4 +23,6 @@ Selected Awards and Honors
 
 - Liu DaoYu Scholarship, Wuhan University (Top 1%), 2020
 
+- LuoJia Excellent Exchange Scholarship, Wuhan University (Top 10%), 2019
+
 - National Scholarship, Ministry of Education of China (Top 0.2%), 2019
