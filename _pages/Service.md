@@ -33,6 +33,8 @@ Journal Reviewer
 
 - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
+- Pattern Recognition
+
 - Machine Intelligence Research
 
 Teaching Assistant
